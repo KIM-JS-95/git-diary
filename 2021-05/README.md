@@ -86,5 +86,16 @@
 3. 정보처리기사(2019.6)
 * Linux Mint terminer Error 발생
 
+### 2021-05-29
+1. 영어
+2. 알고리즘(이코테 문제 풀이)
+3. 정보처리기사(2019.6)
+* Linux Mint terminer Error 발생
 
-
+### 2021-05-30
+1. 토이 프로젝트(검색기능 구현)
+2. 알고리즘(이코테 문제 풀이)
+3. 정보처리기사(2019.6)
+4. 영어
+5. AWS Dev certificate
+* Linux Mint terminer Error 발생
