@@ -1,4 +1,3 @@
-
 ### 2021-06-01
 1. 토이 프로젝트
 2. 알고리즘(이코테 문제 풀이)
@@ -37,3 +36,25 @@
 3. 알고리즘(이코테 문제 풀이)
 4. AWS Dev certificate (AMI 기초 정리) 
   * Create a new blog to Github and Set up appropriately
+
+### 2021-06-08
+1. 토이 프로젝트
+2. CS interview Repository Read
+3. 알고리즘(이코테 문제 풀이)
+
+### 2021-06-09
+1. 토이 프로젝트
+2. 정보처리기사
+3. 알고리즘(이코테 문제 풀이)
+
+
+### 2021-06-10
+1. 토이 프로젝트
+2. CS interview Repository Read
+3. 알고리즘(이코테 문제 풀이)
+
+
+### 2021-06-11
+1. 토이 프로젝트
+2. CS interview Repository Read
+3. 알고리즘(이코테 문제 풀이)
